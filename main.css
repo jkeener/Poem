@@ -1,11 +1,11 @@
-/* line 1, H:/n&c/main.scss */
+/* line 1, H:/Poem/main.scss */
 html {
   height: 100%;
   width: 100%;
   font-family: Lato;
   font-weight: 700; }
 
-/* line 8, H:/n&c/main.scss */
+/* line 8, H:/Poem/main.scss */
 body {
   height: 100%;
   margin: 0;
@@ -13,7 +13,7 @@ body {
   position: relative;
   background-color: lightgray; }
 
-/* line 16, H:/n&c/main.scss */
+/* line 16, H:/Poem/main.scss */
 .blue {
   width: 100%;
   height: 100%;
@@ -23,18 +23,18 @@ body {
   position: absolute;
   mix-blend-mode: color-burn; }
 
-/* line 26, H:/n&c/main.scss */
+/* line 26, H:/Poem/main.scss */
 .svg-wrapper {
   height: 100%;
   width: 100%;
   display: flex;
   justify-content: center; }
 
-/* line 33, H:/n&c/main.scss */
+/* line 33, H:/Poem/main.scss */
 svg {
   height: 100%; }
 
-/* line 36, H:/n&c/main.scss */
+/* line 36, H:/Poem/main.scss */
 .poem-wrapper {
   height: 100%;
   width: 100%;
@@ -43,185 +43,191 @@ svg {
   display: flex;
   justify-content: center; }
 
-/* line 44, H:/n&c/main.scss */
+/* line 44, H:/Poem/main.scss */
 .poem {
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between; }
 
-/* line 49, H:/n&c/main.scss */
+/* line 50, H:/Poem/main.scss */
+.poem p {
+  padding: 0;
+  margin: 0; }
+
+/* line 54, H:/Poem/main.scss */
 .right {
   align-self: flex-end; }
 
-/* line 52, H:/n&c/main.scss */
+/* line 57, H:/Poem/main.scss */
 #shape1 {
   animation: fade 60s ease infinite; }
 
-/* line 56, H:/n&c/main.scss */
+/* line 61, H:/Poem/main.scss */
 #shape2 {
   animation: fade 60s ease 1s infinite; }
 
-/* line 60, H:/n&c/main.scss */
+/* line 65, H:/Poem/main.scss */
 #shape3 {
   animation: fade 60s ease 2s infinite; }
 
-/* line 64, H:/n&c/main.scss */
+/* line 69, H:/Poem/main.scss */
 #shape4 {
   animation: fade 60s ease 3s infinite; }
 
-/* line 68, H:/n&c/main.scss */
+/* line 73, H:/Poem/main.scss */
 #shape5 {
   animation: fade 60s ease 4s infinite; }
 
-/* line 72, H:/n&c/main.scss */
+/* line 77, H:/Poem/main.scss */
 #shape6 {
   animation: fade 60s ease 5s infinite; }
 
-/* line 76, H:/n&c/main.scss */
+/* line 81, H:/Poem/main.scss */
 #shape7 {
   animation: fade 60s ease 6s infinite; }
 
-/* line 80, H:/n&c/main.scss */
+/* line 85, H:/Poem/main.scss */
 #shape8 {
   animation: fade 60s ease 7s infinite; }
 
-/* line 84, H:/n&c/main.scss */
+/* line 89, H:/Poem/main.scss */
 #shape9 {
   animation: fade 60s ease 8s infinite; }
 
-/* line 88, H:/n&c/main.scss */
+/* line 93, H:/Poem/main.scss */
 #shape10 {
   animation: fade 60s ease 9s infinite; }
 
-/* line 92, H:/n&c/main.scss */
+/* line 97, H:/Poem/main.scss */
 #shape11 {
   animation: fade 60s ease 10s infinite; }
 
-/* line 96, H:/n&c/main.scss */
+/* line 101, H:/Poem/main.scss */
 #shape12 {
   animation: fade 60s ease 11s infinite; }
 
-/* line 100, H:/n&c/main.scss */
+/* line 105, H:/Poem/main.scss */
 #shape13 {
   animation: fade 60s ease 12s infinite; }
 
-/* line 104, H:/n&c/main.scss */
+/* line 109, H:/Poem/main.scss */
 #shape14 {
   animation: fade 60s ease 13s infinite; }
 
-/* line 108, H:/n&c/main.scss */
+/* line 113, H:/Poem/main.scss */
 #shape15 {
   animation: fade 60s ease 14s infinite; }
 
-/* line 112, H:/n&c/main.scss */
+/* line 117, H:/Poem/main.scss */
 #shape16 {
   animation: fade 60s ease 15s infinite; }
 
-/* line 116, H:/n&c/main.scss */
+/* line 121, H:/Poem/main.scss */
 #shape17 {
   animation: fade 60s ease 16s infinite; }
 
-/* line 120, H:/n&c/main.scss */
+/* line 125, H:/Poem/main.scss */
 #shape18 {
   animation: fade 60s ease 17s infinite; }
 
-/* line 124, H:/n&c/main.scss */
+/* line 129, H:/Poem/main.scss */
 #shape19 {
   animation: fade 60s ease 18s infinite; }
 
-/* line 128, H:/n&c/main.scss */
+/* line 133, H:/Poem/main.scss */
 #shape20 {
   animation: fade 60s ease 19s infinite; }
 
-/* line 132, H:/n&c/main.scss */
+/* line 137, H:/Poem/main.scss */
 #shape21 {
   animation: fade 60s ease 20s infinite; }
 
-/* line 136, H:/n&c/main.scss */
+/* line 141, H:/Poem/main.scss */
 #shape22 {
   animation: fade 60s ease 21s infinite; }
 
-/* line 140, H:/n&c/main.scss */
+/* line 145, H:/Poem/main.scss */
 #shape23 {
   animation: fade 60s ease 22s infinite; }
 
-/* line 144, H:/n&c/main.scss */
+/* line 149, H:/Poem/main.scss */
 #shape24 {
   animation: fade 60s ease 23s infinite; }
 
-/* line 147, H:/n&c/main.scss */
+/* line 152, H:/Poem/main.scss */
 #line1 {
   animation: color 60s ease infinite; }
 
-/* line 151, H:/n&c/main.scss */
+/* line 156, H:/Poem/main.scss */
 #line2 {
   animation: color 60s ease 1s infinite; }
 
-/* line 155, H:/n&c/main.scss */
+/* line 160, H:/Poem/main.scss */
 #line3 {
   animation: color 60s ease 2s infinite; }
 
-/* line 159, H:/n&c/main.scss */
+/* line 164, H:/Poem/main.scss */
 #line4 {
   animation: color 60s ease 3s infinite; }
 
-/* line 163, H:/n&c/main.scss */
+/* line 168, H:/Poem/main.scss */
 #line5 {
   animation: color 60s ease 4s infinite; }
 
-/* line 167, H:/n&c/main.scss */
+/* line 172, H:/Poem/main.scss */
 #line6 {
   animation: color 60s ease 5s infinite; }
 
-/* line 171, H:/n&c/main.scss */
+/* line 176, H:/Poem/main.scss */
 #line7 {
   animation: color 60s ease 6s infinite; }
 
-/* line 175, H:/n&c/main.scss */
+/* line 180, H:/Poem/main.scss */
 #line8 {
   animation: color 60s ease 7s infinite; }
 
-/* line 179, H:/n&c/main.scss */
+/* line 184, H:/Poem/main.scss */
 #line9 {
   animation: color 60s ease 8s infinite; }
 
-/* line 183, H:/n&c/main.scss */
+/* line 188, H:/Poem/main.scss */
 #line10 {
   animation: color 60s ease 9s infinite; }
 
-/* line 187, H:/n&c/main.scss */
+/* line 192, H:/Poem/main.scss */
 #line11 {
   animation: color 60s ease 10s infinite; }
 
-/* line 191, H:/n&c/main.scss */
+/* line 196, H:/Poem/main.scss */
 #line12 {
   animation: color 60s ease 11s infinite; }
 
-/* line 195, H:/n&c/main.scss */
+/* line 200, H:/Poem/main.scss */
 #line13 {
   animation: color 60s ease 12s infinite; }
 
-/* line 199, H:/n&c/main.scss */
+/* line 204, H:/Poem/main.scss */
 #line14 {
   animation: color 60s ease 13s infinite; }
 
-/* line 203, H:/n&c/main.scss */
+/* line 208, H:/Poem/main.scss */
 #line15 {
   animation: color 60s ease 14s infinite; }
 
-/* line 207, H:/n&c/main.scss */
+/* line 212, H:/Poem/main.scss */
 #line16 {
   animation: color 60s ease 15s infinite; }
 
-/* line 211, H:/n&c/main.scss */
+/* line 216, H:/Poem/main.scss */
 #line17 {
   animation: color 60s ease 16s infinite; }
 
-/* line 215, H:/n&c/main.scss */
+/* line 220, H:/Poem/main.scss */
 #line18 {
   animation: color 60s ease 17s infinite; }
 
-/* line 219, H:/n&c/main.scss */
+/* line 224, H:/Poem/main.scss */
 #line19 {
   animation: color 60s ease 18s infinite; }
 
