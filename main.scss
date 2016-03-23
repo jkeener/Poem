@@ -42,9 +42,14 @@ svg {
     justify-content: center;
 }
 .poem {
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+.poem p {
+    padding: 0;
+    margin: 0;
 }
 .right {
     align-self: flex-end;
