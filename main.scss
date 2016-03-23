@@ -240,3 +240,10 @@ svg {
         color: black;
     }
 }
+
+@media (max-width: 600px) {
+svg {
+    height:100%;
+    width:100%;
+    }
+}
