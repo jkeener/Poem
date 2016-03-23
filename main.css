@@ -253,4 +253,14 @@ svg {
     height: 100%;
     width: 100%; } }
 
+@media (orientation: landscape) {
+  /* line 255, H:/Poem/main.scss */
+  .svg-wrapper {
+    height: 100%;
+    width: 100%; }
+  /* line 259, H:/Poem/main.scss */
+  svg {
+    height: 100%;
+    width: 100%; } }
+
 /*# sourceMappingURL=main.css.map */
