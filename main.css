@@ -245,6 +245,10 @@ svg {
 
 @media (max-width: 600px) {
   /* line 245, H:/Poem/main.scss */
+  .svg-wrapper {
+    height: 100%;
+    width: 100%; }
+  /* line 249, H:/Poem/main.scss */
   svg {
     height: 100%;
     width: 100%; } }
