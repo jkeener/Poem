@@ -253,7 +253,7 @@ svg {
     height: 100%;
     width: 100%; } }
 
-@media (orientation: landscape) {
+@media (orientation: landscape) and (max-height: 600px) {
   /* line 255, H:/Poem/main.scss */
   .svg-wrapper {
     height: 100%;

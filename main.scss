@@ -251,7 +251,7 @@ svg {
     width:100%;
     }
 }
-@media (orientation: landscape) {
+@media (orientation: landscape) and (max-height: 600px) {
         .svg-wrapper {
     height: 100%;
     width: 100%;
